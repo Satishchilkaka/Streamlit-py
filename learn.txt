@@ -1,0 +1,2 @@
+1. create a virtual environment: python -m venv [env name]
+2. To use virtual environment: [env name]\Scripts\activate.bat
